@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "PIECES OF A DREAM",
+  "base_artist": "CHEMISTRY",
+  "createdAt": "2026-03-10T14:14:00.175434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/01_Pieces_Of_A_Dream_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pieces of a Dream",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/02_Pieces_of_a_Dream_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "MIKE",
+      "has_synced": true,
+      "path": "select/03_Pieces_Of_A_Dream_MIKE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/04_Pieces_Of_A_Dream_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/05_Pieces_Of_A_Dream_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "MIKE",
+      "has_synced": true,
+      "path": "select/06_Pieces_Of_A_Dream_MIKE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pieces of a Dream",
+      "artist": "Nikolo Kotzev",
+      "has_synced": false,
+      "path": "select/07_Pieces_of_a_Dream_Nikolo_Kotzev.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pieces of a Dream",
+      "artist": "ZIPANG OPERA",
+      "has_synced": true,
+      "path": "select/08_Pieces_of_a_Dream_ZIPANG_OPERA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "MIKE",
+      "has_synced": false,
+      "path": "select/09_Pieces_Of_A_Dream_MIKE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "PIECES OF A DREAM",
+      "artist": "CHEMISTRY",
+      "has_synced": true,
+      "path": "select/10_PIECES_OF_A_DREAM_CHEMISTRY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "PIECES OF A DREAM",
+      "artist": "CHEMISTRY",
+      "has_synced": true,
+      "path": "select/11_PIECES_OF_A_DREAM_CHEMISTRY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pieces of a Man",
+      "artist": "Gil Scott-Heron",
+      "has_synced": false,
+      "path": "select/12_Pieces_of_a_Man_Gil_Scott-Heron.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pieces Of A Man",
+      "artist": "Gil Scott-Heron",
+      "has_synced": true,
+      "path": "select/13_Pieces_Of_A_Man_Gil_Scott-Heron.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pieces Of A Man",
+      "artist": "Gil Scott-Heron",
+      "has_synced": true,
+      "path": "select/14_Pieces_Of_A_Man_Gil_Scott-Heron.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "Anastacia",
+      "has_synced": false,
+      "path": "select/15_Pieces_Of_A_Dream_Anastacia.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kokoro No Kakera - Pieces of a Broken Heart (English)",
+      "artist": "Joe Hisaishi",
+      "has_synced": true,
+      "path": "select/16_Kokoro_No_Kakera_-_Pieces_of_a_Broken_Heart_(English)_Joe_Hisaishi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kokoro no Kakera - Pieces of a Broken Heart -",
+      "artist": "Joe Hisaishi",
+      "has_synced": true,
+      "path": "select/17_Kokoro_no_Kakera_-_Pieces_of_a_Broken_Heart_-_Joe_Hisaishi.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Pieces of a (Black) Man",
+      "artist": "AZ",
+      "has_synced": true,
+      "path": "select/18_Pieces_of_a_(Black)_Man_AZ.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Pieces of a Dream",
+      "artist": "CHEMISTRY",
+      "has_synced": true,
+      "path": "select/19_Pieces_of_a_Dream_CHEMISTRY.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Pieces of a Man",
+      "artist": "Gil Scott-Heron",
+      "has_synced": true,
+      "path": "select/20_Pieces_of_a_Man_Gil_Scott-Heron.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Pieces Of A Man",
+      "artist": "Gil Scott‐Heron",
+      "has_synced": true,
+      "path": "select/21_Pieces_Of_A_Man_Gil_Scott‐Heron.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Pieces of a Dream (album version)",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/22_Pieces_of_a_Dream_(album_version)_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "PIECES OF DREAM",
+      "artist": "Chemistry",
+      "has_synced": true,
+      "path": "select/23_PIECES_OF_DREAM_Chemistry.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Pieces of dream",
+      "artist": "Paul Weller",
+      "has_synced": false,
+      "path": "select/24_Pieces_of_dream_Paul_Weller.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PIECES OF DREAM",
+      "artist": "CHEMISTRY",
+      "has_synced": false,
+      "path": "select/pl_01_PIECES_OF_DREAM_CHEMISTRY.txt"
+    }
+  ]
+}
